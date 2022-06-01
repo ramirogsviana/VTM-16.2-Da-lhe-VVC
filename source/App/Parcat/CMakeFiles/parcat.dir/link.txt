@@ -1,0 +1,1 @@
+/usr/bin/g++ -g3 -gdwarf-2 CMakeFiles/parcat.dir/parcat.cpp.o -o ../../../bin/umake/gcc-5.4/x86_64/debug/parcat  ../../../lib/umake/gcc-5.4/x86_64/debug/libCommonLib.a ../../../lib/umake/gcc-5.4/x86_64/debug/libDecoderLib.a ../../../lib/umake/gcc-5.4/x86_64/debug/libUtilities.a ../../../lib/umake/gcc-5.4/x86_64/debug/libCommonLib.a 
